@@ -1,0 +1,26 @@
+.App {
+  width: 350px;
+   height: auto;
+   margin: 0px;
+   border: 2px solid black;
+   background: #E6E6FA;
+   padding-top: 30px;
+   padding-right: 50px;
+   padding-bottom: 50px;
+   padding-left: 50px;
+   margin-left:37%;
+   margin-top: 5%;
+   box-shadow: 5px 5px ;
+   border-radius: 50px ;
+}
+.title {
+  text-align: center ;
+  font-size: 35px;
+
+}
+.spinner{
+  text-align: center;
+}
+.submit{
+  text-align: center;
+}
